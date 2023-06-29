@@ -3,6 +3,7 @@ checkpoints/*
 output/*
 notebooks/*
 play.py
+**/slurm/*
 
 *.xml
 *.idea

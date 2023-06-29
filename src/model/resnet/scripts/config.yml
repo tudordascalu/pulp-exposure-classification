@@ -1,0 +1,11 @@
+# Data
+checkpoints_path: checkpoints/resnet/
+n_classes: 1
+
+# Model
+epochs: 50
+batch_size: 8
+learning_rate: 1e-4
+weight_decay: 1e-8
+resnet_version: 50
+scheduler_patience: 10
